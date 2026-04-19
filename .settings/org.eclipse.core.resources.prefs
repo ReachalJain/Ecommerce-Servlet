@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//WebContent/cart.jsp=UTF-8
+encoding//WebContent/checkout.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/navbar.jsp=UTF-8
+encoding//WebContent/productdetails.jsp=UTF-8
+encoding//WebContent/products.jsp=UTF-8
+encoding//WebContent/success.jsp=UTF-8
+encoding//src/com/ecommerce/servlet/CartServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/LoginServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/LogoutServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/ProductDetailsServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/ProductServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/RemoveCartServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/SearchServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/SignupServlet.java=UTF-8
+encoding//src/com/ecommerce/servlet/ViewCartServlet.java=UTF-8
